@@ -29,7 +29,7 @@ header {
 .contenido{
     
     width: 100%;
-    max-width: 600PX;
+    max-width: 700PX;
     margin: 0 auto;
     text-align: center;
     
@@ -72,3 +72,4 @@ footer a:hover {
 
     color: rgb(101, 142, 255);
 }
+
