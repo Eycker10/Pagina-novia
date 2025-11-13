@@ -11,7 +11,7 @@ body {
     border-radius: 30px;
     margin: 10px;
     padding: 15px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.15); /* sombra suave */
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
     
 }
 header {
@@ -73,3 +73,51 @@ footer a:hover {
     color: rgb(101, 142, 255);
 }
 
+<<<<<<< HEAD
+=======
+body {
+  background-color: rgb(237, 217, 243);
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border-radius: 30px;
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.contenedor-musica {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Estilo del botón */
+#botonMusica {
+  background-color: #fa96c8;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Efecto al pasar el mouse */
+#botonMusica:hover {
+  background-color: #f56ab1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 998b963 (Descripción del cambio)
